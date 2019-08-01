@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Count from './components/Counter'
+import Count from './components/SimpleEventListener'
 function App() {
   return (
     <div className="App">
